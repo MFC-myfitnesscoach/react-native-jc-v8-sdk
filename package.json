@@ -1,0 +1,28 @@
+{
+  "name": "react-native-jc-v8-sdk",
+  "version": "1.0.0",
+  "description": "React Native V8/JCVital watch SDK bridge for Android and iOS",
+  "main": "index.js",
+  "react-native": "index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "files": [
+    "android/build.gradle",
+    "android/libs",
+    "android/src",
+    "ios",
+    "index.js",
+    "index.d.ts",
+    "src",
+    "README.md",
+    "react-native.config.js",
+    "react-native-jc-v8-sdk.podspec"
+  ],
+  "dependencies": {
+    "@babel/runtime": "^7.28.6"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.60.0"
+  }
+}

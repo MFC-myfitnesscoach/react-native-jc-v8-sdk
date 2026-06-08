@@ -1,0 +1,35 @@
+plugins {
+    id 'com.android.library'
+}
+
+def localCompileSdk = rootProject.ext.has('compileSdkVersion') ? rootProject.ext.compileSdkVersion : 35
+def localMinSdk = rootProject.ext.has('minSdkVersion') ? rootProject.ext.minSdkVersion : 26
+def localTargetSdk = rootProject.ext.has('targetSdkVersion') ? rootProject.ext.targetSdkVersion : 35
+
+android {
+    namespace 'com.reactnativeblesdkv8'
+    compileSdk localCompileSdk
+
+    defaultConfig {
+        minSdk localMinSdk
+        targetSdk localTargetSdk
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+repositories {
+    google()
+    mavenCentral()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    implementation "com.facebook.react:react-android"
+    implementation files('libs/blesdk_2301-release.aar')
+}

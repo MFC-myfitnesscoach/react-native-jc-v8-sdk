@@ -1,0 +1,50 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		INJECTED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:2:5-91
+	android:required
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:2:64-88
+	android:name
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:2:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:4:5-95
+	android:maxSdkVersion
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:4:66-92
+	android:name
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:5:5-101
+	android:maxSdkVersion
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:5:72-98
+	android:name
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:5:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:6:5-106
+	android:maxSdkVersion
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:6:77-103
+	android:name
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:7:5-9:58
+	android:usesPermissionFlags
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:9:9-55
+	android:name
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:8:9-57
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:10:22-73
+uses-sdk
+INJECTED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml
+INJECTED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml

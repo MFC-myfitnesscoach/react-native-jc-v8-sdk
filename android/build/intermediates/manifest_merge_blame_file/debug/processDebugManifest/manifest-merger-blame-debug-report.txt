@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reactnativeblesdkv8" >
+4
+5    <uses-sdk android:minSdkVersion="26" />
+6
+7    <uses-feature
+7-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:2:5-91
+8        android:name="android.hardware.bluetooth_le"
+8-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:2:19-63
+9        android:required="false" />
+9-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:2:64-88
+10
+11    <uses-permission
+11-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:4:5-95
+12        android:name="android.permission.BLUETOOTH"
+12-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:4:22-65
+13        android:maxSdkVersion="30" />
+13-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:4:66-92
+14    <uses-permission
+14-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:5:5-101
+15        android:name="android.permission.BLUETOOTH_ADMIN"
+15-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:5:22-71
+16        android:maxSdkVersion="30" />
+16-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:5:72-98
+17    <uses-permission
+17-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:6:5-106
+18        android:name="android.permission.ACCESS_FINE_LOCATION"
+18-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:6:22-76
+19        android:maxSdkVersion="30" />
+19-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:6:77-103
+20    <uses-permission
+20-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:7:5-9:58
+21        android:name="android.permission.BLUETOOTH_SCAN"
+21-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:8:9-57
+22        android:usesPermissionFlags="neverForLocation" />
+22-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:9:9-55
+23    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+23-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:10:5-76
+23-->/Users/macbookm1/Desktop/MFC/MFC-App/node_modules/react-native-jc-v8-sdk/android/src/main/AndroidManifest.xml:10:22-73
+24
+25</manifest>
