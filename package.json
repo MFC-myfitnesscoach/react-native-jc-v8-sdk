@@ -2,15 +2,36 @@
   "name": "react-native-jc-v8-sdk",
   "version": "1.0.0",
   "description": "React Native V8/JCVital watch SDK bridge for Android and iOS",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk.git"
+  },
+  "homepage": "https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk#readme",
+  "bugs": {
+    "url": "https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk/issues"
+  },
+  "keywords": [
+    "react-native",
+    "bluetooth",
+    "ble",
+    "wearable",
+    "watch",
+    "jcvital",
+    "sdk",
+    "android",
+    "ios"
+  ],
   "main": "index.js",
   "react-native": "index.js",
   "types": "index.d.ts",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "files": [
     "android/build.gradle",
     "android/libs",
     "android/src",
     "ios",
+    "LICENSE",
     "index.js",
     "index.d.ts",
     "src",
