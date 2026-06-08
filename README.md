@@ -276,4 +276,4 @@ The published package includes:
 
 ## License
 
-Private and proprietary. Internal use only. See [LICENSE](./LICENSE) for terms.
+Private and proprietary. Internal use only. Copyright TalhaSwifter1122 and MFC. See [LICENSE](./LICENSE) for terms.
