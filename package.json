@@ -5,11 +5,11 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk.git"
+    "url": "git+https://github.com/MFC-myfitnesscoach/react-native-jc-v8-sdk.git"
   },
-  "homepage": "https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk#readme",
+  "homepage": "https://github.com/MFC-myfitnesscoach/react-native-jc-v8-sdk#readme",
   "bugs": {
-    "url": "https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk/issues"
+    "url": "https://github.com/MFC-myfitnesscoach/react-native-jc-v8-sdk/issues"
   },
   "keywords": [
     "react-native",

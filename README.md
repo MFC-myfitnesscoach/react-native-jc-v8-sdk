@@ -35,7 +35,7 @@ yarn add react-native-jc-v8-sdk
 ### GitHub tag
 
 ```bash
-yarn add "git+https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk.git#v1.0.0"
+yarn add "git+https://github.com/MFC-myfitnesscoach/react-native-jc-v8-sdk.git#v1.0.0"
 ```
 
 ### Local development

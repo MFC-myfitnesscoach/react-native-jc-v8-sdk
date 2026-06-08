@@ -6,12 +6,12 @@ Pod::Spec.new do |s|
   s.name         = "react-native-jc-v8-sdk"
   s.version      = package["version"]
   s.summary      = package["description"]
-  s.homepage     = "https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk"
-  s.license      = "MIT"
+  s.homepage     = "https://github.com/MFC-myfitnesscoach/react-native-jc-v8-sdk"
+  s.license      = "UNLICENSED"
   s.authors      = { "Muhammad Talha" => "m.talha8266@gmail.com" }
 
   s.platforms    = { :ios => "15.2" }
-  s.source       = { :git => "https://github.com/TalhaSwifter1122/react-native-jc-v8-sdk.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/MFC-myfitnesscoach/react-native-jc-v8-sdk.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m}"
 
